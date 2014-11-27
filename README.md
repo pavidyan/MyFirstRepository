@@ -1,2 +1,3 @@
 MyFirstRepository
 =================
+Learning Java Script
